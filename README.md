@@ -6,6 +6,6 @@ INSTRUÇÕES PARA INSTALAÇÃO NA ESP32
 
 -Na Arduino IDE, selecione a placa ESP32 Dev Module em Ferramentas → Placa e escolha a porta serial correspondente à conexão da ESP32 em Ferramentas → Porta.
 
--Depois da conexão ser estabelecida, é necessário copiar e colar o código no editor de texto
+-Depois da conexão ser estabelecida, é necessário copiar e colar o código do arquivo "codigo_deploy.c" no editor de texto
 
 -Em seguida deve-se clicar em Verificar para compilar o código e depois em Upload para que o código seja gravado na ESP32
